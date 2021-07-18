@@ -1,5 +1,5 @@
 p{
-    color: rgb(0, 77, 128) !important;
+    color: rgb(0, 77, 128);
     font-weight: normal !important;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
@@ -8,3 +8,37 @@ p{
 h2{
     color: blue;
 }
+#p1{
+    color: red;
+    text-align: center;
+}
+#p2, #p3{
+    color: orange;
+}
+
+.pinkMark{
+background-color: pink;
+}
+.myDiv {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+  }
+  .myDiv3 {
+    border: 10px outset yellow;
+    text-align: left;
+    font-size: 20 px;
+    }
+
+    .blueMark{
+        background-color: rgba(0, 0, 255, 0.2);
+    }
+
+
+    .divBox {
+        margin-top: 20px;
+        margin-left: 30px;
+        margin-right: 35px;
+        margin-bottom: 40px;
+        padding: 5px;
+    }
