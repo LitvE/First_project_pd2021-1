@@ -1,0 +1,10 @@
+p{
+    color: rgb(0, 77, 128) !important;
+    font-weight: normal !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    background-color: beige;
+}
+h2{
+    color: blue;
+}
